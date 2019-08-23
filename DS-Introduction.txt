@@ -1,1 +1,6 @@
-Introduction / Problem StatementFor the past 4 years I have lived in the Atlanta area. I am looking to move to a quieter environment outside the city while maintaining access to certain amenities, mainly food. I like food, especially food that's prepared for me.I have narrowed down my choices to the cities of Roswell and Woodstock, GA. I will make a decision based on both the number of restaurants and thge variety of cuisines offered in each city. For the purposes of this project we will treat all other housing considerations as being equal.
+Introduction / Problem Statement
+
+For the past 4 years I have lived in the Atlanta area. I am looking to move to a quieter environment outside the city while maintaining access to certain amenities, mainly food. I like food, especially food that's prepared for me.
+
+I have narrowed down my choices to the cities of Roswell and Woodstock, GA. I will make a decision based on both the number of restaurants and thge variety of cuisines offered in each city. For the purposes of this project we will treat all other housing considerations as being equal. This analysis wil also help others who are considering relocating to these similar cities, as well as those who may be seeking employment in the foodservice industry.
+
