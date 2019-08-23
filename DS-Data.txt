@@ -1,0 +1,1 @@
+Data:To make this determination, geographic data will be acquired from the geopy.geocoders library. Detailed data regarding restaurants available in each city will be acquired using the Foursquare API. The data sets will then be prepared by removing non-restaurant businesses from the result set and categorizing the restaurants by location and cuisine.
