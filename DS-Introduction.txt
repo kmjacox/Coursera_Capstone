@@ -1,6 +1,15 @@
-Introduction / Problem Statement
+1.  Introduction / Problem Statement
 
-For the past 4 years I have lived in the Atlanta area. I am looking to move to a quieter environment outside the city while maintaining access to certain amenities, mainly food. I like food, especially food that's prepared for me.
+1.1  Background:
+The Atlanta area is booming!  The close-in suburbs have experienced a great deal of expansion, especially in the foodservice industry.  Specifically, the cities of Roswell and Woodstock have experienced tremendous growth which includes a revitalized downtown area and additional dining experiences. 
 
-I have narrowed down my choices to the cities of Roswell and Woodstock, GA. I will make a decision based on both the number of restaurants and thge variety of cuisines offered in each city. For the purposes of this project we will treat all other housing considerations as being equal. This analysis wil also help others who are considering relocating to these similar cities, as well as those who may be seeking employment in the foodservice industry.
+1.2  Problem:
+How do you determine which of two cities in the Atlanta suburbs is a more appealing location based on the number and variety of restaurants located within the city.  WHich city is a more advantageous location to reside?  Work? Locate a business supplying the foodservice industry?  Or to open a new restaurant (and what cuisines are lacking)?
+
+1.3 Interest:
+This information will be of interest to the following target audience:
+a)  Persons looking for a city to locate their residence, as well as companies seeking to locate their offices (and have a variety of choices for employee lunches)
+b)  Persons interested in employment in the foodservice industry.
+c)  Persons / companies seeking to open a restaurant in one of these cities.
+d)  Businesses that serve the foodservice industry.
 
